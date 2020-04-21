@@ -1,4 +1,4 @@
-/* Arshad Muhammed */
+/* Rohit Ghadge */
 $(function() {
 
     var anim_id;
