@@ -163,13 +163,3 @@ body {
     padding: 10px;
     box-shadow: 4px 4px 0px 1px #808080;
 }
-#help{
-	text-align: center;
-}
-#donate{
-    position: absolute;
-    right: 10px;
-    top: 25px;
-    background: rgba(255,255,255,0.8);
-    padding: 12px;
-}
